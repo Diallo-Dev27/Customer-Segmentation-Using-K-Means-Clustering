@@ -1,0 +1,501 @@
+CustomerID,Gender,Age,Annual_Income_k,Spending_Score,Cluster,Segment
+1,Female,23,77,77,4,Premium / VIP
+2,Male,27,20,94,0,Young Enthusiasts
+3,Male,31,89,79,4,Premium / VIP
+4,Male,47,87,18,2,Cautious Affluent
+5,Female,45,90,1,2,Cautious Affluent
+6,Male,26,77,95,4,Premium / VIP
+7,Male,33,73,81,4,Premium / VIP
+8,Female,60,76,31,2,Cautious Affluent
+9,Male,28,29,75,0,Young Enthusiasts
+10,Male,60,26,19,3,Budget-Conscious
+11,Male,22,16,72,0,Young Enthusiasts
+12,Male,51,82,10,2,Cautious Affluent
+13,Male,46,20,24,3,Budget-Conscious
+14,Male,20,33,65,0,Young Enthusiasts
+15,Male,41,86,65,4,Premium / VIP
+16,Female,37,98,85,4,Premium / VIP
+17,Female,59,43,13,3,Budget-Conscious
+18,Female,34,27,62,0,Young Enthusiasts
+19,Female,25,66,89,4,Premium / VIP
+20,Female,70,15,22,3,Budget-Conscious
+21,Female,53,23,17,3,Budget-Conscious
+22,Female,48,40,22,3,Budget-Conscious
+23,Female,50,49,53,1,Average Customers
+24,Female,39,77,80,4,Premium / VIP
+25,Female,23,43,68,0,Young Enthusiasts
+26,Female,53,35,16,3,Budget-Conscious
+27,Male,47,27,13,3,Budget-Conscious
+28,Male,44,64,62,1,Average Customers
+29,Female,33,87,27,2,Cautious Affluent
+30,Female,28,80,79,4,Premium / VIP
+31,Male,52,31,21,3,Budget-Conscious
+32,Female,29,83,80,4,Premium / VIP
+33,Female,62,22,17,3,Budget-Conscious
+34,Female,52,87,13,2,Cautious Affluent
+35,Male,28,27,76,0,Young Enthusiasts
+36,Male,25,89,91,4,Premium / VIP
+37,Female,54,25,26,3,Budget-Conscious
+38,Female,20,25,69,0,Young Enthusiasts
+39,Female,47,47,29,3,Budget-Conscious
+40,Female,27,23,70,0,Young Enthusiasts
+41,Female,32,81,80,4,Premium / VIP
+42,Male,25,42,52,0,Young Enthusiasts
+43,Male,54,29,16,3,Budget-Conscious
+44,Male,39,83,36,2,Cautious Affluent
+45,Female,22,28,86,0,Young Enthusiasts
+46,Female,26,31,65,0,Young Enthusiasts
+47,Male,26,27,78,0,Young Enthusiasts
+48,Female,28,32,63,0,Young Enthusiasts
+49,Male,41,43,15,3,Budget-Conscious
+50,Male,30,32,77,0,Young Enthusiasts
+51,Male,21,26,74,0,Young Enthusiasts
+52,Male,32,86,18,2,Cautious Affluent
+53,Female,50,90,12,2,Cautious Affluent
+54,Male,59,19,19,3,Budget-Conscious
+55,Female,49,90,7,2,Cautious Affluent
+56,Female,22,44,82,0,Young Enthusiasts
+57,Male,32,96,26,2,Cautious Affluent
+58,Male,29,43,74,0,Young Enthusiasts
+59,Female,36,53,35,1,Average Customers
+60,Male,28,29,86,0,Young Enthusiasts
+61,Female,54,15,19,3,Budget-Conscious
+62,Male,33,57,41,1,Average Customers
+63,Female,39,93,78,4,Premium / VIP
+64,Female,58,27,25,3,Budget-Conscious
+65,Male,24,32,77,0,Young Enthusiasts
+66,Male,28,53,70,0,Young Enthusiasts
+67,Female,64,32,26,3,Budget-Conscious
+68,Male,28,25,65,0,Young Enthusiasts
+69,Male,48,52,35,1,Average Customers
+70,Male,41,94,88,4,Premium / VIP
+71,Male,33,83,82,4,Premium / VIP
+72,Female,33,86,61,4,Premium / VIP
+73,Female,46,53,43,1,Average Customers
+74,Male,45,48,44,1,Average Customers
+75,Female,31,88,77,4,Premium / VIP
+76,Male,52,50,49,1,Average Customers
+77,Male,37,55,30,1,Average Customers
+78,Female,24,30,75,0,Young Enthusiasts
+79,Female,47,32,21,3,Budget-Conscious
+80,Male,51,31,22,3,Budget-Conscious
+81,Male,54,86,19,2,Cautious Affluent
+82,Female,24,27,83,0,Young Enthusiasts
+83,Female,65,29,10,3,Budget-Conscious
+84,Male,52,82,22,2,Cautious Affluent
+85,Male,37,90,80,4,Premium / VIP
+86,Female,28,44,73,0,Young Enthusiasts
+87,Male,46,87,1,2,Cautious Affluent
+88,Male,31,33,33,1,Average Customers
+89,Male,39,92,71,4,Premium / VIP
+90,Male,46,46,54,1,Average Customers
+91,Female,28,88,87,4,Premium / VIP
+92,Female,49,31,22,3,Budget-Conscious
+93,Female,33,86,78,4,Premium / VIP
+94,Female,34,83,79,4,Premium / VIP
+95,Female,43,19,15,3,Budget-Conscious
+96,Male,28,92,77,4,Premium / VIP
+97,Male,23,31,77,0,Young Enthusiasts
+98,Female,28,31,78,0,Young Enthusiasts
+99,Male,57,50,12,3,Budget-Conscious
+100,Female,22,26,84,0,Young Enthusiasts
+101,Female,38,59,50,1,Average Customers
+102,Male,53,30,9,3,Budget-Conscious
+103,Female,25,28,69,0,Young Enthusiasts
+104,Male,35,83,74,4,Premium / VIP
+105,Male,35,95,75,4,Premium / VIP
+106,Female,24,31,79,0,Young Enthusiasts
+107,Male,40,50,43,1,Average Customers
+108,Female,18,37,58,0,Young Enthusiasts
+109,Female,35,98,78,4,Premium / VIP
+110,Female,39,84,16,2,Cautious Affluent
+111,Male,47,74,29,2,Cautious Affluent
+112,Male,58,15,33,3,Budget-Conscious
+113,Male,40,79,90,4,Premium / VIP
+114,Male,24,33,77,0,Young Enthusiasts
+115,Female,52,25,30,3,Budget-Conscious
+116,Male,48,45,51,1,Average Customers
+117,Male,25,62,47,1,Average Customers
+118,Female,31,59,53,1,Average Customers
+119,Male,39,98,14,2,Cautious Affluent
+120,Male,22,15,59,0,Young Enthusiasts
+121,Male,38,59,65,1,Average Customers
+122,Female,43,96,31,2,Cautious Affluent
+123,Female,33,100,84,4,Premium / VIP
+124,Male,52,106,36,2,Cautious Affluent
+125,Female,67,65,46,3,Budget-Conscious
+126,Female,56,61,57,1,Average Customers
+127,Female,34,31,30,1,Average Customers
+128,Male,36,55,33,1,Average Customers
+129,Male,32,93,32,2,Cautious Affluent
+130,Female,18,95,63,4,Premium / VIP
+131,Male,23,19,70,0,Young Enthusiasts
+132,Female,49,92,19,2,Cautious Affluent
+133,Female,64,16,23,3,Budget-Conscious
+134,Male,45,54,46,1,Average Customers
+135,Female,27,83,7,2,Cautious Affluent
+136,Female,31,38,72,0,Young Enthusiasts
+137,Female,41,82,35,2,Cautious Affluent
+138,Female,23,37,76,0,Young Enthusiasts
+139,Female,21,30,87,0,Young Enthusiasts
+140,Female,25,57,52,0,Young Enthusiasts
+141,Female,24,37,76,0,Young Enthusiasts
+142,Female,25,52,60,0,Young Enthusiasts
+143,Female,50,40,36,3,Budget-Conscious
+144,Male,18,21,73,0,Young Enthusiasts
+145,Male,31,60,51,1,Average Customers
+146,Male,26,46,60,0,Young Enthusiasts
+147,Female,24,41,65,0,Young Enthusiasts
+148,Female,45,59,64,1,Average Customers
+149,Female,42,66,58,1,Average Customers
+150,Male,58,30,29,3,Budget-Conscious
+151,Female,20,28,75,0,Young Enthusiasts
+152,Female,46,96,25,2,Cautious Affluent
+153,Male,26,27,63,0,Young Enthusiasts
+154,Female,26,32,80,0,Young Enthusiasts
+155,Female,58,15,15,3,Budget-Conscious
+156,Female,30,93,92,4,Premium / VIP
+157,Male,29,36,81,0,Young Enthusiasts
+158,Female,36,46,65,1,Average Customers
+159,Female,47,15,28,3,Budget-Conscious
+160,Female,18,22,73,0,Young Enthusiasts
+161,Female,54,70,8,2,Cautious Affluent
+162,Female,38,88,83,4,Premium / VIP
+163,Male,56,27,27,3,Budget-Conscious
+164,Female,27,23,72,0,Young Enthusiasts
+165,Female,57,33,1,3,Budget-Conscious
+166,Female,64,35,31,3,Budget-Conscious
+167,Male,27,42,98,0,Young Enthusiasts
+168,Male,24,27,64,0,Young Enthusiasts
+169,Female,54,31,19,3,Budget-Conscious
+170,Male,50,65,16,2,Cautious Affluent
+171,Female,22,37,74,0,Young Enthusiasts
+172,Male,47,77,12,2,Cautious Affluent
+173,Female,59,21,23,3,Budget-Conscious
+174,Female,53,84,27,2,Cautious Affluent
+175,Male,52,82,26,2,Cautious Affluent
+176,Female,64,82,8,2,Cautious Affluent
+177,Male,40,89,72,4,Premium / VIP
+178,Female,55,99,11,2,Cautious Affluent
+179,Female,58,82,18,2,Cautious Affluent
+180,Female,29,102,77,4,Premium / VIP
+181,Male,25,99,92,4,Premium / VIP
+182,Male,46,94,17,2,Cautious Affluent
+183,Female,47,26,17,3,Budget-Conscious
+184,Female,45,57,58,1,Average Customers
+185,Female,46,43,34,1,Average Customers
+186,Male,47,88,13,2,Cautious Affluent
+187,Male,36,90,73,4,Premium / VIP
+188,Female,23,33,78,0,Young Enthusiasts
+189,Male,32,54,53,1,Average Customers
+190,Male,47,96,24,2,Cautious Affluent
+191,Female,35,32,13,3,Budget-Conscious
+192,Male,34,84,67,4,Premium / VIP
+193,Female,41,28,31,3,Budget-Conscious
+194,Male,35,69,47,1,Average Customers
+195,Female,59,72,24,2,Cautious Affluent
+196,Female,44,60,45,1,Average Customers
+197,Female,28,70,19,2,Cautious Affluent
+198,Male,23,27,88,0,Young Enthusiasts
+199,Female,40,105,22,2,Cautious Affluent
+200,Female,34,116,94,4,Premium / VIP
+201,Male,57,39,11,3,Budget-Conscious
+202,Male,23,39,79,0,Young Enthusiasts
+203,Male,41,64,57,1,Average Customers
+204,Female,57,80,26,2,Cautious Affluent
+205,Female,37,64,14,2,Cautious Affluent
+206,Female,39,70,6,2,Cautious Affluent
+207,Female,32,42,44,1,Average Customers
+208,Female,26,20,89,0,Young Enthusiasts
+209,Female,55,30,19,3,Budget-Conscious
+210,Female,23,102,60,4,Premium / VIP
+211,Female,60,65,52,1,Average Customers
+212,Male,36,99,33,2,Cautious Affluent
+213,Female,32,91,92,4,Premium / VIP
+214,Female,40,57,35,1,Average Customers
+215,Male,45,41,34,1,Average Customers
+216,Female,26,82,86,4,Premium / VIP
+217,Male,36,96,72,4,Premium / VIP
+218,Female,37,56,53,1,Average Customers
+219,Female,36,99,76,4,Premium / VIP
+220,Female,39,56,52,1,Average Customers
+221,Male,30,96,74,4,Premium / VIP
+222,Male,50,55,48,1,Average Customers
+223,Male,25,33,56,0,Young Enthusiasts
+224,Male,51,67,16,2,Cautious Affluent
+225,Male,50,89,14,2,Cautious Affluent
+226,Male,34,79,72,4,Premium / VIP
+227,Female,39,69,44,1,Average Customers
+228,Male,64,26,31,3,Budget-Conscious
+229,Male,50,63,48,1,Average Customers
+230,Female,29,21,63,0,Young Enthusiasts
+231,Female,49,62,18,2,Cautious Affluent
+232,Female,27,43,74,0,Young Enthusiasts
+233,Female,52,32,18,3,Budget-Conscious
+234,Female,26,22,67,0,Young Enthusiasts
+235,Female,35,86,71,4,Premium / VIP
+236,Female,30,89,84,4,Premium / VIP
+237,Female,32,78,79,4,Premium / VIP
+238,Female,38,88,10,2,Cautious Affluent
+239,Male,48,84,23,2,Cautious Affluent
+240,Female,29,74,30,1,Average Customers
+241,Male,22,93,86,4,Premium / VIP
+242,Female,32,84,26,2,Cautious Affluent
+243,Male,40,27,17,3,Budget-Conscious
+244,Male,29,33,83,0,Young Enthusiasts
+245,Male,32,82,69,4,Premium / VIP
+246,Female,42,81,8,2,Cautious Affluent
+247,Male,22,32,59,0,Young Enthusiasts
+248,Female,22,46,65,0,Young Enthusiasts
+249,Female,34,67,81,4,Premium / VIP
+250,Male,38,104,15,2,Cautious Affluent
+251,Female,57,36,8,3,Budget-Conscious
+252,Male,19,54,61,0,Young Enthusiasts
+253,Male,47,28,20,3,Budget-Conscious
+254,Female,49,65,22,2,Cautious Affluent
+255,Female,32,45,54,1,Average Customers
+256,Male,38,26,40,1,Average Customers
+257,Female,40,96,22,2,Cautious Affluent
+258,Male,29,94,78,4,Premium / VIP
+259,Female,50,82,12,2,Cautious Affluent
+260,Female,38,22,34,3,Budget-Conscious
+261,Female,57,63,40,1,Average Customers
+262,Female,51,70,18,2,Cautious Affluent
+263,Male,30,82,77,4,Premium / VIP
+264,Female,20,35,78,0,Young Enthusiasts
+265,Female,48,98,19,2,Cautious Affluent
+266,Female,47,48,55,1,Average Customers
+267,Male,65,32,11,3,Budget-Conscious
+268,Female,21,27,72,0,Young Enthusiasts
+269,Male,45,38,27,3,Budget-Conscious
+270,Male,54,79,31,2,Cautious Affluent
+271,Male,35,91,11,2,Cautious Affluent
+272,Female,55,47,41,3,Budget-Conscious
+273,Female,48,48,39,1,Average Customers
+274,Male,32,57,65,1,Average Customers
+275,Female,33,52,61,1,Average Customers
+276,Female,31,103,88,4,Premium / VIP
+277,Female,36,104,77,4,Premium / VIP
+278,Female,26,95,96,4,Premium / VIP
+279,Female,38,41,45,1,Average Customers
+280,Female,51,81,16,2,Cautious Affluent
+281,Female,32,57,51,1,Average Customers
+282,Female,36,53,49,1,Average Customers
+283,Female,42,16,30,3,Budget-Conscious
+284,Female,57,46,47,3,Budget-Conscious
+285,Female,41,89,33,2,Cautious Affluent
+286,Male,52,22,20,3,Budget-Conscious
+287,Female,38,55,41,1,Average Customers
+288,Female,60,20,21,3,Budget-Conscious
+289,Female,37,74,74,4,Premium / VIP
+290,Female,40,46,53,1,Average Customers
+291,Female,26,87,81,4,Premium / VIP
+292,Female,34,65,58,1,Average Customers
+293,Female,32,74,70,4,Premium / VIP
+294,Male,42,76,94,4,Premium / VIP
+295,Male,59,78,21,2,Cautious Affluent
+296,Male,41,111,23,2,Cautious Affluent
+297,Male,48,57,53,1,Average Customers
+298,Male,43,35,15,3,Budget-Conscious
+299,Female,52,19,11,3,Budget-Conscious
+300,Female,35,15,27,3,Budget-Conscious
+301,Male,55,28,25,3,Budget-Conscious
+302,Female,23,40,50,0,Young Enthusiasts
+303,Male,35,91,78,4,Premium / VIP
+304,Female,44,74,27,2,Cautious Affluent
+305,Male,40,80,16,2,Cautious Affluent
+306,Female,47,82,27,2,Cautious Affluent
+307,Male,54,45,49,1,Average Customers
+308,Female,38,47,57,1,Average Customers
+309,Male,43,87,23,2,Cautious Affluent
+310,Female,51,86,12,2,Cautious Affluent
+311,Male,32,92,88,4,Premium / VIP
+312,Female,47,57,51,1,Average Customers
+313,Female,55,33,20,3,Budget-Conscious
+314,Female,30,80,73,4,Premium / VIP
+315,Female,44,102,21,2,Cautious Affluent
+316,Female,37,54,66,1,Average Customers
+317,Male,48,34,40,3,Budget-Conscious
+318,Male,55,93,23,2,Cautious Affluent
+319,Male,37,90,71,4,Premium / VIP
+320,Male,30,88,78,4,Premium / VIP
+321,Female,37,67,24,2,Cautious Affluent
+322,Female,46,18,21,3,Budget-Conscious
+323,Female,25,23,94,0,Young Enthusiasts
+324,Female,60,25,30,3,Budget-Conscious
+325,Female,28,23,84,0,Young Enthusiasts
+326,Female,37,58,63,1,Average Customers
+327,Female,27,42,71,0,Young Enthusiasts
+328,Male,63,47,50,3,Budget-Conscious
+329,Female,49,77,11,2,Cautious Affluent
+330,Female,36,90,85,4,Premium / VIP
+331,Male,44,85,13,2,Cautious Affluent
+332,Male,25,25,75,0,Young Enthusiasts
+333,Female,30,22,69,0,Young Enthusiasts
+334,Female,27,25,67,0,Young Enthusiasts
+335,Female,45,88,8,2,Cautious Affluent
+336,Female,46,89,22,2,Cautious Affluent
+337,Male,30,101,92,4,Premium / VIP
+338,Male,26,89,64,4,Premium / VIP
+339,Female,42,55,50,1,Average Customers
+340,Female,19,23,77,0,Young Enthusiasts
+341,Female,28,22,78,0,Young Enthusiasts
+342,Female,27,55,42,1,Average Customers
+343,Male,52,15,28,3,Budget-Conscious
+344,Female,33,95,83,4,Premium / VIP
+345,Male,58,85,18,2,Cautious Affluent
+346,Male,27,22,74,0,Young Enthusiasts
+347,Male,43,33,28,3,Budget-Conscious
+348,Male,62,24,20,3,Budget-Conscious
+349,Female,50,42,50,1,Average Customers
+350,Female,55,59,49,1,Average Customers
+351,Male,48,58,35,1,Average Customers
+352,Female,51,23,9,3,Budget-Conscious
+353,Female,18,23,57,0,Young Enthusiasts
+354,Male,33,56,50,1,Average Customers
+355,Male,51,35,20,3,Budget-Conscious
+356,Male,59,83,31,2,Cautious Affluent
+357,Female,38,61,75,1,Average Customers
+358,Male,57,34,28,3,Budget-Conscious
+359,Male,46,43,47,1,Average Customers
+360,Male,56,81,19,2,Cautious Affluent
+361,Female,27,30,59,0,Young Enthusiasts
+362,Male,52,58,54,1,Average Customers
+363,Female,29,67,43,1,Average Customers
+364,Male,24,24,73,0,Young Enthusiasts
+365,Female,26,29,92,0,Young Enthusiasts
+366,Female,23,35,78,0,Young Enthusiasts
+367,Female,47,58,47,1,Average Customers
+368,Male,18,82,79,4,Premium / VIP
+369,Female,47,55,46,1,Average Customers
+370,Female,49,31,41,3,Budget-Conscious
+371,Male,26,20,92,0,Young Enthusiasts
+372,Male,45,30,23,3,Budget-Conscious
+373,Female,58,63,47,1,Average Customers
+374,Female,25,69,52,4,Premium / VIP
+375,Male,37,63,51,1,Average Customers
+376,Male,53,69,20,2,Cautious Affluent
+377,Female,56,36,15,3,Budget-Conscious
+378,Female,54,78,1,2,Cautious Affluent
+379,Female,26,47,77,0,Young Enthusiasts
+380,Female,35,79,25,2,Cautious Affluent
+381,Female,36,71,22,2,Cautious Affluent
+382,Male,47,32,39,3,Budget-Conscious
+383,Female,25,37,67,0,Young Enthusiasts
+384,Male,34,98,94,4,Premium / VIP
+385,Male,48,35,26,3,Budget-Conscious
+386,Male,28,37,79,0,Young Enthusiasts
+387,Male,53,53,47,1,Average Customers
+388,Female,27,31,72,0,Young Enthusiasts
+389,Male,47,96,14,2,Cautious Affluent
+390,Male,28,33,67,0,Young Enthusiasts
+391,Female,37,85,83,4,Premium / VIP
+392,Female,57,38,11,3,Budget-Conscious
+393,Female,51,34,18,3,Budget-Conscious
+394,Female,49,57,47,1,Average Customers
+395,Female,40,54,38,1,Average Customers
+396,Male,55,31,24,3,Budget-Conscious
+397,Female,48,15,20,3,Budget-Conscious
+398,Female,45,93,80,4,Premium / VIP
+399,Male,40,69,53,1,Average Customers
+400,Male,46,60,49,1,Average Customers
+401,Male,28,37,41,0,Young Enthusiasts
+402,Female,34,64,59,1,Average Customers
+403,Male,52,24,23,3,Budget-Conscious
+404,Male,40,60,42,1,Average Customers
+405,Female,68,31,25,3,Budget-Conscious
+406,Female,41,38,29,1,Average Customers
+407,Male,41,51,45,1,Average Customers
+408,Female,30,86,81,4,Premium / VIP
+409,Male,18,45,36,0,Young Enthusiasts
+410,Female,36,61,62,1,Average Customers
+411,Female,48,77,23,2,Cautious Affluent
+412,Male,26,32,62,0,Young Enthusiasts
+413,Female,44,61,61,1,Average Customers
+414,Female,48,15,19,3,Budget-Conscious
+415,Female,27,96,10,2,Cautious Affluent
+416,Female,48,46,51,1,Average Customers
+417,Female,39,68,50,1,Average Customers
+418,Male,37,82,16,2,Cautious Affluent
+419,Female,24,26,66,0,Young Enthusiasts
+420,Female,34,100,79,4,Premium / VIP
+421,Female,21,40,88,0,Young Enthusiasts
+422,Male,44,31,25,3,Budget-Conscious
+423,Female,36,25,23,3,Budget-Conscious
+424,Male,25,31,64,0,Young Enthusiasts
+425,Female,63,38,22,3,Budget-Conscious
+426,Male,27,40,79,0,Young Enthusiasts
+427,Female,47,45,50,1,Average Customers
+428,Female,27,18,68,0,Young Enthusiasts
+429,Female,39,66,41,1,Average Customers
+430,Female,47,15,29,3,Budget-Conscious
+431,Male,24,101,100,4,Premium / VIP
+432,Female,25,29,76,0,Young Enthusiasts
+433,Female,34,92,80,4,Premium / VIP
+434,Male,55,15,4,3,Budget-Conscious
+435,Male,19,17,91,0,Young Enthusiasts
+436,Male,24,103,86,4,Premium / VIP
+437,Female,41,55,41,1,Average Customers
+438,Female,49,53,38,1,Average Customers
+439,Female,30,18,71,0,Young Enthusiasts
+440,Male,36,84,81,4,Premium / VIP
+441,Female,27,19,72,0,Young Enthusiasts
+442,Male,30,93,83,4,Premium / VIP
+443,Female,29,62,50,1,Average Customers
+444,Male,39,82,19,2,Cautious Affluent
+445,Female,34,96,78,4,Premium / VIP
+446,Female,49,24,17,3,Budget-Conscious
+447,Male,45,94,7,2,Cautious Affluent
+448,Female,33,52,49,1,Average Customers
+449,Female,62,38,26,3,Budget-Conscious
+450,Male,37,98,72,4,Premium / VIP
+451,Male,44,71,51,1,Average Customers
+452,Female,23,30,73,0,Young Enthusiasts
+453,Male,36,72,68,4,Premium / VIP
+454,Male,26,29,72,0,Young Enthusiasts
+455,Female,58,25,40,3,Budget-Conscious
+456,Female,49,91,22,2,Cautious Affluent
+457,Male,53,46,24,3,Budget-Conscious
+458,Male,34,92,33,2,Cautious Affluent
+459,Female,39,33,25,3,Budget-Conscious
+460,Female,49,89,13,2,Cautious Affluent
+461,Female,52,75,22,2,Cautious Affluent
+462,Female,22,26,74,0,Young Enthusiasts
+463,Female,28,39,100,0,Young Enthusiasts
+464,Female,32,74,80,4,Premium / VIP
+465,Male,39,62,50,1,Average Customers
+466,Female,59,61,56,1,Average Customers
+467,Female,22,31,77,0,Young Enthusiasts
+468,Male,42,94,78,4,Premium / VIP
+469,Male,48,26,25,3,Budget-Conscious
+470,Female,44,88,19,2,Cautious Affluent
+471,Male,66,55,45,3,Budget-Conscious
+472,Male,48,24,34,3,Budget-Conscious
+473,Male,45,89,22,2,Cautious Affluent
+474,Female,34,100,69,4,Premium / VIP
+475,Male,19,58,45,0,Young Enthusiasts
+476,Female,46,31,32,3,Budget-Conscious
+477,Male,31,112,76,4,Premium / VIP
+478,Male,44,51,48,1,Average Customers
+479,Female,40,57,48,1,Average Customers
+480,Male,57,89,25,2,Cautious Affluent
+481,Female,57,75,17,2,Cautious Affluent
+482,Male,52,88,24,2,Cautious Affluent
+483,Male,35,87,69,4,Premium / VIP
+484,Male,21,29,78,0,Young Enthusiasts
+485,Female,43,92,79,4,Premium / VIP
+486,Male,25,20,75,0,Young Enthusiasts
+487,Female,66,25,36,3,Budget-Conscious
+488,Male,22,78,73,4,Premium / VIP
+489,Female,34,48,44,1,Average Customers
+490,Female,45,19,12,3,Budget-Conscious
+491,Male,43,77,13,2,Cautious Affluent
+492,Female,44,17,13,3,Budget-Conscious
+493,Male,24,22,73,0,Young Enthusiasts
+494,Male,47,76,22,2,Cautious Affluent
+495,Male,20,34,78,0,Young Enthusiasts
+496,Female,42,84,39,2,Cautious Affluent
+497,Female,50,55,43,1,Average Customers
+498,Male,38,89,88,4,Premium / VIP
+499,Female,46,43,21,3,Budget-Conscious
+500,Female,52,93,14,2,Cautious Affluent

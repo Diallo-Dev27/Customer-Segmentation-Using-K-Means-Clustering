@@ -1,0 +1,7 @@
+,value
+k,5.0
+silhouette,0.4764
+davies_bouldin,0.8141
+calinski_harabasz,547.1489
+wcss,276.681
+pca_2d_variance_%,90.1313
